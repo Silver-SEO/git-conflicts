@@ -1,5 +1,6 @@
 :root {
   --font: system-ui;
+  --min-width: 68ch;
   --max-width: 60ch;
   --body-padding: 2rem;
 
